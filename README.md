@@ -137,8 +137,8 @@ Coming Soon
 
 # Connect
 
-- LinkedIn: YOUR_LINKEDIN
-- GitHub: https://github.com/YOUR_USERNAME
+- LinkedIn: https://www.linkedin.com/in/abhijay-pandey-387211293
+- GitHub: https://github.com/abhijaypandeygu-coder
 - Email: YOUR_EMAIL
 
 ---
