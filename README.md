@@ -1,107 +1,78 @@
 <div align="center">
 
-# Hi, I'm Abhijay Pandey 👋
+# Hi 👋, I'm Abhijay Pandey
 
-### Computer Science Student • C++ • Python • Quantitative Finance • AI
+### 💻 Computer Science Student | C++ | Python | AI | Quantitative Finance
 
-*"Building software where performance, mathematics, and engineering meet."*
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=800&lines=Aspiring+Quant+Developer;Building+High+Performance+Software;C%2B%2B+%7C+Python+%7C+AI+%7C+Finance;Always+Learning+Always+Building" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abhijay-pandey-387211293)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel)](YOUR_PORTFOLIO)
-
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge"/>
 
 </div>
 
 ---
 
-# About Me
+# 🚀 About Me
 
-I'm a Computer Science student passionate about building software at the intersection of
-
-- Quantitative Finance
-- Artificial Intelligence
-- Algorithms
-- Systems Programming
-- High Performance Computing
-
-Currently exploring modern C++, low-latency systems, machine learning, and quantitative research through hands-on projects.
+- 🎓 Computer Science Engineering Student
+- 💹 Interested in Quantitative Finance
+- ⚡ Learning Modern C++ and Python
+- 🧠 Love Algorithms & System Design
+- 📈 Building Institutional-level Finance Projects
+- 📚 Interested in AI & Research
 
 ---
 
-# Current Focus
+# 🛠 Tech Stack
 
-- Modern C++ (C++20/23)
-- Python for Quantitative Finance
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,python,java,git,github,linux,vscode,docker,mysql"/>
+
+</p>
+
+---
+
+# 📚 Currently Learning
+
 - Data Structures & Algorithms
+- Modern C++
+- Python for Quant Finance
 - Machine Learning
-- Financial Engineering
 - Probability & Statistics
-- Linux Development
-- System Design
+- Financial Mathematics
+- Low Latency Systems
+- Linux
 - Open Source
 
 ---
 
-# Tech Stack
+# 📌 Featured Projects
 
-## Languages
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=cpp,python,java"/>
-
-</p>
-
-## Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker"/>
-
-</p>
+| Project | Description |
+|---------|-------------|
+| 📈 Quant Trading Backtester | Strategy evaluation framework |
+| 💹 Portfolio Optimization | Markowitz + Risk Analysis |
+| 📊 Option Pricing | Black-Scholes + Greeks |
+| 🤖 AI Finance Assistant | LLM-powered finance chatbot |
+| ⚡ Order Book Simulator | Low-latency C++ engine |
+| 📉 Risk Dashboard | Portfolio analytics |
 
 ---
 
-# Featured Projects
-
-Coming Soon...
-
-- Quantitative Trading Backtester
-- Portfolio Optimization Engine
-- Option Pricing Models
-- Market Data Analysis
-- AI Finance Assistant
-- Monte Carlo Simulation
-- Risk Analytics Dashboard
-- Order Book Simulator
-
----
-
-# Learning Roadmap
-
-- Data Structures & Algorithms
-- Competitive Programming
-- Quantitative Finance
-- Stochastic Processes
-- Time Series Analysis
-- Financial Mathematics
-- Machine Learning
-- Reinforcement Learning
-- Low Latency Programming
-
----
-
-# GitHub Analytics
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true"/>
 
 </p>
+
+---
+
+# 📈 Most Used Languages
 
 <p align="center">
 
@@ -111,40 +82,46 @@ Coming Soon...
 
 ---
 
-# Competitive Programming
+# 🏆 GitHub Trophies
 
-Coming Soon
+<p align="center">
 
-- LeetCode
-- Codeforces
-- CodeChef
-- AtCoder
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&no-frame=true&margin-w=15"/>
 
----
-
-# 2026 Goals
-
-- Solve 1000+ DSA Problems
-- Build 20+ Finance Projects
-- Publish Research
-- Master Modern C++
-- Learn Advanced Python
-- Contribute to Open Source
-- Participate in Hackathons
-- Secure a Quant Internship
+</p>
 
 ---
 
-# Connect
+# 🎯 2026 Goals
 
-- LinkedIn: https://www.linkedin.com/in/abhijay-pandey-387211293
-- GitHub: https://github.com/abhijaypandeygu-coder
-- Email: YOUR_EMAIL
+- ✅ Master Modern C++
+- ✅ Build 20+ Quant Projects
+- ✅ Publish Research Papers
+- ✅ Contribute to Open Source
+- ✅ Solve 1000+ DSA Problems
+- ✅ Participate in Hackathons
+- ✅ Secure Quant Internship
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
 
 ---
 
 <div align="center">
 
-### "First, solve the problem. Then, optimize it."
+### ⚡ "First, solve the problem. Then, optimize it."
 
 </div>
