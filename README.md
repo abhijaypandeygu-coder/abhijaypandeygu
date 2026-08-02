@@ -2,14 +2,14 @@
 
 # 👋 Hi, I'm Abhijay Pandey
 
-### Computer Science Engineering Student • Aspiring Quant Developer
+### 💻 Computer Science Engineering Student | Aspiring Quant Developer
 
 <p>
-Building high-performance software with C++, Python, AI, and Quantitative Finance.
+Building high-performance software with <b>C++</b>, <b>Python</b>, <b>AI</b>, and <b>Quantitative Finance</b>.
 </p>
 
 <p>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=800&lines=C%2B%2B+Developer;Python+Developer;Quantitative+Finance;Machine+Learning;Algorithms;Building+High+Performance+Software"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=C%2B%2B+Developer;Python+Developer;Quantitative+Finance;Machine+Learning;Algorithms;Building+High+Performance+Software"/>
 </p>
 
 <p>
@@ -24,10 +24,10 @@ Building high-performance software with C++, Python, AI, and Quantitative Financ
 
 ```cpp
 Name        : Abhijay Pandey
-Education   : B.Tech Computer Science
-Interests   : Quantitative Finance, AI, Algorithms
+Education   : B.Tech Computer Science Engineering
 Languages   : C++, Python, Java
-Goal        : Quant Developer
+Interests   : Quantitative Finance, AI, Algorithms
+Goal        : Quant Developer @ Jane Street / Citadel / Optiver
 ```
 
 ---
@@ -45,25 +45,25 @@ Goal        : Quant Developer
 # 📚 Currently Learning
 
 - Modern C++
-- Python for Quantitative Finance
 - Data Structures & Algorithms
 - Machine Learning
+- Quantitative Finance
 - Financial Mathematics
-- Probability & Statistics
 - Linux
 - System Design
+- Probability & Statistics
 
 ---
 
-# 📌 Featured Projects
+# 🚀 Featured Projects
 
 | Project | Description |
 |---------|-------------|
-| 📈 Quant Trading Backtester | Strategy Backtesting Framework |
-| 💹 Portfolio Optimization | Markowitz Portfolio Optimization |
+| 📈 Quant Trading Backtester | Institutional Backtesting Framework |
+| 💹 Portfolio Optimization | Modern Portfolio Theory |
 | 📊 Option Pricing | Black-Scholes + Greeks |
 | ⚡ Order Book Simulator | Low-Latency Matching Engine |
-| 🤖 AI Finance Assistant | LLM-based Finance Chatbot |
+| 🤖 AI Finance Assistant | LLM-powered Finance Chatbot |
 | 📉 Risk Dashboard | Portfolio Analytics |
 
 ---
@@ -90,10 +90,26 @@ Goal        : Quant Developer
 
 ---
 
+# 🏆 Competitive Programming
+
+<p align="center">
+
+<a href="https://codeforces.com/profile/abhijaypandeygu">
+<img src="https://img.shields.io/badge/Codeforces-abhijaypandeygu-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-Coming%20Soon-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+</p>
+
+---
+
 # 🎯 Goals
 
 - 🚀 Become a Quant Developer
-- 📈 Build Institutional Finance Projects
+- 📈 Build 20+ Quantitative Finance Projects
 - 🧠 Publish Research Papers
 - 💻 Master Modern C++
 - 📚 Learn Advanced Python
@@ -107,15 +123,15 @@ Goal        : Quant Developer
 <p align="center">
 
 <a href="https://github.com/abhijaypandeygu-coder">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -124,7 +140,7 @@ Goal        : Quant Developer
 
 <div align="center">
 
-### 💡 *"First, solve the problem. Then, optimize it."*
+### 💡 "First, solve the problem. Then, optimize it."
 
 ⭐ Thanks for visiting my profile!
 
